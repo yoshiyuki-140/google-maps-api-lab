@@ -1,0 +1,10 @@
+# GoogleのAPI呼び出し用
+googlemaps
+
+# `.env`から環境変数読み込み用
+python-dotenv
+
+# フォーマッター
+black
+isort
+autoflake
