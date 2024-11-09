@@ -1,3 +1,5 @@
+.PHONY: init run f
+
 init:
 	pip install -r requirements.txt
 
